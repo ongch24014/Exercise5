@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exercise 5</string>
+<!--    <string name="like" />-->
+<!--    <string name="dislike" />-->
+        <string name="like">like</string>
+    <string name="dislike">dislike</string>
+</resources>
